@@ -1,0 +1,11 @@
+[
+  {
+    "type": "MOD_INFO",
+    "id": "KRA",
+    "name": "Konyo's Random Additions ",
+    "maintainers": [ "Konyo" ],
+    "description": "Just a collection of random things i've created for various runs.",
+    "category": "other",
+    "dependencies": [ "dda" ]
+  }
+]

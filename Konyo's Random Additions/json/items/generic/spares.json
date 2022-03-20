@@ -1,0 +1,16 @@
+[
+  {
+    "id": "KRA_well_pump_crude",
+    "type": "GENERIC",
+	  "category": "spare_parts",
+    "name": { "str": "crude mechanical pump" },
+    "description": "A crudely made cast iron mechanical impeller pump.  It's not good for much of anything on its own.",
+    "material": [ "iron" ],
+    "weight": "2400 g",
+    "volume": "1 L",
+	  "symbol": ";",
+    "color": "dark_gray",
+    "price": 1800,
+    "price_postapoc": 500
+  }
+]

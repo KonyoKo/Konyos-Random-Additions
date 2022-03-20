@@ -1,0 +1,35 @@
+[
+ {
+    "type": "recipe",
+    "result": "ammonia",
+    "category": "CC_CHEM",
+    "subcategory": "CSC_CHEM_CHEMICALS",
+    "skill_used": "chemistry",
+    "difficulty": 5,
+    "time": "36 m",
+    "autolearn": true,
+    "qualities": [ { "id": "CHEM", "level": 1 } ],
+    "tools": [ [ [ "surface_heat", 20, "LIST" ] ] ],
+    "components": [
+      [ [ "water_clean", 1 ], [ "water", 1 ] ],
+      [ [ "scrap", 1 ] ],
+      [ [ "charcoal", 5 ], [ "coal_lump", 5 ], [ "lye_powder", 20 ] ]
+    ]
+  },
+  {
+    "type": "recipe",
+    "result": "chem_sodium",
+	  "charges": 210,
+    "byproducts": [ [ "salt", 1 ] ],
+    "category": "CC_CHEM",
+    "subcategory": "CSC_CHEM_CHEMICALS",
+    "skill_used": "chemistry",
+    "difficulty": 4,
+    "time": "45 m",
+    "batch_time_factors": [ 60, 4 ],
+    "autolearn": true,
+    "qualities": [ { "id": "CHEM", "level": 2 }, { "id": "BOIL", "level": 1 } ],
+    "tools": [ [ [ "electrolysis_kit", 750 ] ], [ [ "surface_heat", 25, "LIST" ] ] ],
+    "components": [ [ [ "material_rocksalt", 1 ] ] ]
+  }
+]

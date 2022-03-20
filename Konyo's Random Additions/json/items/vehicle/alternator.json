@@ -1,0 +1,16 @@
+[
+  {
+    "id": "KRA_alternator_crude_item",
+    "type": "GENERIC",
+    "name": { "str": "crude alternator" },
+    "description": "A crudely made alternator used to power vehicle electrical systems.",
+    "weight": "4000 g",
+    "volume": "2500 ml",
+    "price": 9000,
+    "price_postapoc": 500,
+    "category": "veh_parts",
+    "material": [ "iron" ],
+    "symbol": ",",
+    "color": "light_cyan"
+  }
+]
