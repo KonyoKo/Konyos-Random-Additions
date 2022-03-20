@@ -10,7 +10,7 @@
     "time": "240 m",
     "reversible": true,
     "autolearn": true,
-	"tools": [ [ [ "surface_heat", 75, "LIST" ] ] ],
+  	"tools": [ [ [ "surface_heat", 75, "LIST" ] ] ],
     "proficiencies": [ { "proficiency": "prof_basic_engines" }, { "proficiency": "prof_welding_basic" } ],
     "qualities": [ { "id": "HAMMER", "level": 2 }, { "id": "SAW_M", "level": 1 } ],
     "components": [

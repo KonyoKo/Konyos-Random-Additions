@@ -19,7 +19,7 @@
   {
     "type": "recipe",
     "result": "chem_sodium",
-	"charges": 210,
+	  "charges": 210,
     "byproducts": [ [ "salt", 1 ] ],
     "category": "CC_CHEM",
     "subcategory": "CSC_CHEM_CHEMICALS",

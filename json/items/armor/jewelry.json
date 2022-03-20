@@ -12,21 +12,21 @@
     "symbol": "[",
     "looks_like": "ring_engagement",
     "color": "yellow",
-	"pocket_data": [
+	  "pocket_data": [
       {
         "pocket_type": "CONTAINER",
         "moves": 1,
         "max_contains_volume": "100 L",
-		"max_item_length": "1000 cm",
+		    "max_item_length": "1000 cm",
         "spoil_multiplier": 1.0,
         "weight_multiplier": 0.25,
         "volume_multiplier": 0.25,
         "rigid": true,
-		"watertight": true,
-		"airtight": true
+		    "watertight": true,
+		    "airtight": true
       }
     ],
-	"use_action": {
+	  "use_action": {
       "type": "place_npc",
       "npc_class_id": "KRA_merchant",
       "summon_msg": "Greetings, traveler.",
@@ -42,14 +42,14 @@
       }
     ],
     "flags": [ 
-	"FANCY",
-	"TARDIS",
-	"TRADER_AVOID",
-	"TRADER_KEEP_EQUIPPED",
-	"STURDY",
-	"WATERPROOF",
-	"FIRE"
-	]
+	  "FANCY",
+	  "TARDIS",
+	  "TRADER_AVOID",
+	  "TRADER_KEEP_EQUIPPED",
+	  "STURDY",
+	  "WATERPROOF",
+	  "FIRE"
+	  ]
   },
   {
     "id": "KRA_interspatial_ring",
@@ -64,18 +64,18 @@
     "symbol": "[",
     "looks_like": "ring_engagement",
     "color": "yellow",
-	"pocket_data": [
+	  "pocket_data": [
       {
         "pocket_type": "CONTAINER",
         "moves": 1,
         "max_contains_volume": "250 L",
-		"max_item_length": "1000 cm",
+		    "max_item_length": "1000 cm",
         "spoil_multiplier": 1.0,
         "weight_multiplier": 0.1,
         "volume_multiplier": 0.1,
         "rigid": true,
-		"watertight": true,
-		"airtight": true
+		    "watertight": true,
+		    "airtight": true
       }
     ],
 	  "use_action": {
@@ -94,14 +94,14 @@
       }
     ],
     "flags": [ 
-	"FANCY",
-	"TARDIS",
-	"TRADER_AVOID",
-	"TRADER_KEEP_EQUIPPED",
-	"STURDY",
-	"WATERPROOF",
-	"FIRE"
-	]
+	  "FANCY",
+	  "TARDIS",
+	  "TRADER_AVOID",
+	  "TRADER_KEEP_EQUIPPED",
+	  "STURDY",
+	  "WATERPROOF",
+	  "FIRE"
+	  ]
   },
   {
     "id": "KRA_interspatial_ring_major",
@@ -116,18 +116,18 @@
     "symbol": "[",
     "looks_like": "ring_engagement",
     "color": "yellow",
-	"pocket_data": [
+	  "pocket_data": [
       {
         "pocket_type": "CONTAINER",
         "moves": 1,
         "max_contains_volume": "500 L",
-		"max_item_length": "1000 cm",
+		    "max_item_length": "1000 cm",
         "spoil_multiplier": 1.0,
         "weight_multiplier": 0.0,
         "volume_multiplier": 0.0,
         "rigid": true,
-		"watertight": true,
-		"airtight": true
+		    "watertight": true,
+		    "airtight": true
       }
     ],
 	  "use_action": {
@@ -146,13 +146,13 @@
       }
     ],
     "flags": [ 
-	"FANCY",
-	"TARDIS",
-	"TRADER_AVOID",
-	"TRADER_KEEP_EQUIPPED",
-	"STURDY",
-	"WATERPROOF",
-	"FIRE"
-	]
+	  "FANCY",
+	  "TARDIS",
+	  "TRADER_AVOID",
+	  "TRADER_KEEP_EQUIPPED",
+	  "STURDY",
+	  "WATERPROOF",
+	  "FIRE"
+	  ]
   }
 ]

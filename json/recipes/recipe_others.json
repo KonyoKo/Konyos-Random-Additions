@@ -17,8 +17,8 @@
     ],
     "tools": [ [ [ "surface_heat", 50, "LIST" ] ] ],
     "components": [ 
-	[ [ "steel_chunk", 6 ],[ "scrap", 18 ] ],
-	[ [ "pipe", 2 ] ] 
-	]
+	    [ [ "steel_chunk", 6 ],[ "scrap", 18 ] ],
+	    [ [ "pipe", 2 ] ] 
+	  ]
   }
 ]

@@ -1,7 +1,7 @@
 [
 {
     "id": "KRA_engine_steam_crude_part",
-	"type": "vehicle_part",
+	  "type": "vehicle_part",
     "categories": [ "movement" ],
     "location": "engine_block",
     "symbol": "*",

@@ -1,8 +1,8 @@
 [
  {
     "id": "KRA_engine_steam_crude_item",
-	"type": "ENGINE",
-	"name": { "str": "crude steam engine" },
+	  "type": "ENGINE",
+	  "name": { "str": "crude steam engine" },
     "category": "veh_parts",
     "material": [ "iron" ],
     "symbol": ":",

@@ -2,9 +2,9 @@
 {
     "id": "KRA_alternator_crude_part",
     "type": "vehicle_part",
-	"name": { "str": "crude alternator" },
+	  "name": { "str": "crude alternator" },
     "item": "KRA_alternator_crude_item",
-	"fuel_type": "battery",
+	  "fuel_type": "battery",
     "symbol": "*",
     "color": "yellow",
     "broken_color": "red",

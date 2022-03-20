@@ -50,7 +50,7 @@
     "capacity": 1,
     "looks_like": "battery",
     "flags": [ "NO_SALVAGE", "NO_UNLOAD" ],
-	"qualities": [ [ "BONDING", 1 ] ],
+	  "qualities": [ [ "BONDING", 1 ] ],
     "pocket_data": [ { "pocket_type": "MAGAZINE", "ammo_restriction": { "KRA_condensed_blood": 1 } } ]
   },
   {
@@ -68,7 +68,7 @@
     "capacity": 2,
     "looks_like": "battery",
     "flags": [ "NO_SALVAGE", "NO_UNLOAD" ],
-	"qualities": [ [ "BONDING", 1 ] ],
+	  "qualities": [ [ "BONDING", 1 ] ],
     "pocket_data": [ { "pocket_type": "MAGAZINE", "ammo_restriction": { "KRA_condensed_blood": 2 } } ]
   },
   {
@@ -86,7 +86,7 @@
     "capacity": 3,
     "looks_like": "battery",
     "flags": [ "NO_SALVAGE", "NO_UNLOAD" ],
-	"qualities": [ [ "BONDING", 1 ] ],
+	  "qualities": [ [ "BONDING", 1 ] ],
     "pocket_data": [ { "pocket_type": "MAGAZINE", "ammo_restriction": { "KRA_condensed_blood": 3 } } ]
   }
 ]
