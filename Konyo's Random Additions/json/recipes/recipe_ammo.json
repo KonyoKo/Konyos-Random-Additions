@@ -11,7 +11,7 @@
     "autolearn": true,
     "qualities": [ { "id": "BONDING", "level": 1 } ],
     "components": [
-      [ [ "blood", 75 ], [ "animal_blood", 150 ], [ "demihuman_blood", 100 ] ]
+      [ [ "blood", 8 ], [ "demihuman_blood", 12 ], [ "mutant_human_blood", 16 ], [ "animal_blood", 24 ],  [ "mutant_blood", 30],  [ "blood_tainted", 50 ] ]
     ]
   }
 ]
