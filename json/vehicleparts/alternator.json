@@ -1,5 +1,5 @@
 [
-{
+  {
     "id": "KRA_alternator_crude_part",
     "type": "vehicle_part",
 	  "name": { "str": "crude alternator" },
