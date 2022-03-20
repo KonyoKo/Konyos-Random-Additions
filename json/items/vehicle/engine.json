@@ -1,0 +1,16 @@
+[
+ {
+    "id": "KRA_engine_steam_crude_item",
+	"type": "ENGINE",
+	"name": { "str": "crude steam engine" },
+    "category": "veh_parts",
+    "material": [ "iron" ],
+    "symbol": ":",
+    "color": "light_cyan",
+    "description": "A small, primitive, & crudely made steam engine.  An integrated boiler burns coal to heat water into steam, driving a reciprocating shaft.  A condenser recaptures the water, making this a closed cycle system.",
+    "weight": "225000 g",
+    "volume": "62500 ml",
+    "price": 2250,
+    "price_postapoc": 200
+  }
+]

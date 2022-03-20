@@ -1,0 +1,17 @@
+[
+ {
+    "type": "GENERIC",
+    "category": "currency",
+    "id": "KRA_trade_coin",
+    "name": { "str": "Trader Coin", "str_pl": "Trader Coins" },
+    "description": "A golden coin with a 1 engraved on it, used as a flat currency exchange with Anon.",
+    "weight": "3 g",
+    "volume": "1 ml",
+    "price": 100,
+    "price_postapoc": 100,
+    "material": [ "gold" ],
+    "symbol": "o",
+    "color": "brown",
+    "use_action": [ "COIN_FLIP" ]
+  }
+]

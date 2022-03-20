@@ -1,0 +1,14 @@
+[
+  {
+    "type": "profession",
+    "id": "KRA_transported",
+    "name": "Transported",
+    "description": "You awake to find that your form has changed, the world has changed, and your situation is grave. All you have on your person is a minor artifact from the world you came from.",
+	"items": {
+      "both": {
+        "items": [ "KRA_interspatial_ring_minor" ]
+		}
+	},
+	"points": 0
+  }
+]
