@@ -30,7 +30,7 @@
     "time": "1 h",
     "autolearn": true,
     "qualities": [ { "id": "BONDING", "level": 1 } ],
-    "components": [ [ "blood", 8 ] ]
+    "components": [ [ [ "blood", 8 ] ] ]
   },
   {
     "type": "recipe",
@@ -43,7 +43,7 @@
     "time": "1 h",
     "autolearn": true,
     "qualities": [ { "id": "BONDING", "level": 1 } ],
-    "components": [ [ "animal_blood", 24 ] ]
+    "components": [ [ [ "animal_blood", 24 ] ] ]
   },
   {
     "type": "recipe",
@@ -56,7 +56,7 @@
     "time": "1 h",
     "autolearn": true,
     "qualities": [ { "id": "BONDING", "level": 1 } ],
-    "components": [ [ "mutant_human_blood", 16 ], [ "mutant_blood", 30] ]
+    "components": [ [ [ "mutant_human_blood", 16 ], [ "mutant_blood", 30] ] ]
   },
   {
     "type": "recipe",
@@ -69,7 +69,7 @@
     "time": "1 h",
     "autolearn": true,
     "qualities": [ { "id": "BONDING", "level": 1 } ],
-    "components": [ [ "blood_tainted", 50 ] ]
+    "components": [ [ [ "blood_tainted", 50 ] ] ]
   },
   {
     "type": "recipe",
@@ -82,6 +82,6 @@
     "time": "1 h",
     "autolearn": true,
     "qualities": [ { "id": "BONDING", "level": 1 } ],
-    "components": [ [ "demihuman_blood", 12 ] ]
+    "components": [ [ [ "demihuman_blood", 12 ] ] ]
   }
 ]
