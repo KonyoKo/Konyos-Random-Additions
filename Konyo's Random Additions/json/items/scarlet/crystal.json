@@ -1,28 +1,12 @@
 [
   {
     "type": "ammunition_type",
-    "id": "KRA_condensed_blood",
-    "name": "condensed blood",
-    "default": "KRA_condensed_blood"
+    "id": "KRA_condensed_blood_gem",
+    "name": "blood gem",
+    "default": "KRA_condensed_blood_gem"
   },
   {
     "type": "AMMO",
-    "id": "KRA_condensed_blood",
-    "category": "spare_parts",
-    "price": 1000,
-    "name": { "str_sp": "condensed blood" },
-    "symbol": "=",
-    "color": "red",
-    "description": "Large amounts of blood condensed down and refined into small gem-like droplets via unknown methods.",
-    "flags": [ "TRADER_AVOID", "ZERO_WEIGHT" ],
-    "volume": "10 ml",
-    "ammo_type": "KRA_condensed_blood",
-    "material": [ "blood" ],
-    "count": 1,
-    "looks_like": "battery"
-  },
-  {
-    "type": "GENERIC",
     "id": "KRA_condensed_blood_gem",
     "category": "spare_parts",
     "price": 1000,
@@ -32,7 +16,9 @@
     "description": "Large amounts of blood condensed down and refined into small gem-like droplets via unknown methods.",
     "flags": [ "TRADER_AVOID", "ZERO_WEIGHT" ],
     "volume": "10 ml",
+    "ammo_type": "KRA_condensed_blood_gem",
     "material": [ "blood" ],
+    "count": 1,
     "looks_like": "battery"
   },
   {
@@ -46,12 +32,12 @@
     "price": 1500,
     "symbol": "=",
     "color": "red",
-    "ammo_type": [ "KRA_condensed_blood" ],
+    "ammo_type": [ "KRA_condensed_blood_gem" ],
     "capacity": 1,
     "looks_like": "battery",
     "flags": [ "NO_SALVAGE", "NO_UNLOAD" ],
 	  "qualities": [ [ "BONDING", 1 ] ],
-    "pocket_data": [ { "pocket_type": "MAGAZINE", "ammo_restriction": { "KRA_condensed_blood": 1 } } ]
+    "pocket_data": [ { "pocket_type": "MAGAZINE", "ammo_restriction": { "KRA_condensed_blood_gem": 1 } } ]
   },
   {
     "id": "KRA_medium_scarlet_crystal",
@@ -64,12 +50,12 @@
     "price": 1500,
     "symbol": "=",
     "color": "red",
-    "ammo_type": [ "KRA_condensed_blood" ],
+    "ammo_type": [ "KRA_condensed_blood_gem" ],
     "capacity": 2,
     "looks_like": "battery",
     "flags": [ "NO_SALVAGE", "NO_UNLOAD" ],
 	  "qualities": [ [ "BONDING", 1 ] ],
-    "pocket_data": [ { "pocket_type": "MAGAZINE", "ammo_restriction": { "KRA_condensed_blood": 2 } } ]
+    "pocket_data": [ { "pocket_type": "MAGAZINE", "ammo_restriction": { "KRA_condensed_blood_gem": 2 } } ]
   },
   {
     "id": "KRA_large_scarlet_crystal",
@@ -82,11 +68,11 @@
     "price": 1500,
     "symbol": "=",
     "color": "red",
-    "ammo_type": [ "KRA_condensed_blood" ],
+    "ammo_type": [ "KRA_condensed_blood_gem" ],
     "capacity": 3,
     "looks_like": "battery",
     "flags": [ "NO_SALVAGE", "NO_UNLOAD" ],
 	  "qualities": [ [ "BONDING", 1 ] ],
-    "pocket_data": [ { "pocket_type": "MAGAZINE", "ammo_restriction": { "KRA_condensed_blood": 3 } } ]
+    "pocket_data": [ { "pocket_type": "MAGAZINE", "ammo_restriction": { "KRA_condensed_blood_gem": 3 } } ]
   }
 ]

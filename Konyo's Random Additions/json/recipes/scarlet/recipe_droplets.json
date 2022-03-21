@@ -1,0 +1,87 @@
+[
+  {
+    "type": "recipe",
+    "result": "KRA_condensed_blood_gem",
+    "activity_level": "NO_EXERCISE",
+    "category": "CC_CHEM",
+    "subcategory": "CSC_CHEM_CHEMICALS",
+    "skill_used": "chemistry",
+    "difficulty": 1,
+    "time": "1 h",
+    "autolearn": true,
+    "qualities": [ { "id": "BONDING", "level": 1 } ],
+    "components": [ 
+      [ [ "KRA_droplet_pristine", 10 ],
+        [ "KRA_droplet_bestial", 10 ],
+        [ "KRA_droplet_evolved", 10 ],
+        [ "KRA_droplet_corrupted", 10 ],
+        [ "KRA_droplet_cursed", 10 ]
+     ]  
+    ]
+ },
+ {
+    "type": "recipe",
+    "result": "KRA_droplet_pristine",
+    "activity_level": "NO_EXERCISE",
+    "category": "CC_CHEM",
+    "subcategory": "CSC_CHEM_CHEMICALS",
+    "skill_used": "chemistry",
+    "difficulty": 1,
+    "time": "1 h",
+    "autolearn": true,
+    "qualities": [ { "id": "BONDING", "level": 1 } ],
+    "components": [ [ "blood", 8 ] ]
+  },
+  {
+    "type": "recipe",
+    "result": "KRA_droplet_bestial",
+    "activity_level": "NO_EXERCISE",
+    "category": "CC_CHEM",
+    "subcategory": "CSC_CHEM_CHEMICALS",
+    "skill_used": "chemistry",
+    "difficulty": 1,
+    "time": "1 h",
+    "autolearn": true,
+    "qualities": [ { "id": "BONDING", "level": 1 } ],
+    "components": [ [ "animal_blood", 24 ] ]
+  },
+  {
+    "type": "recipe",
+    "result": "KRA_droplet_evolved",
+    "activity_level": "NO_EXERCISE",
+    "category": "CC_CHEM",
+    "subcategory": "CSC_CHEM_CHEMICALS",
+    "skill_used": "chemistry",
+    "difficulty": 1,
+    "time": "1 h",
+    "autolearn": true,
+    "qualities": [ { "id": "BONDING", "level": 1 } ],
+    "components": [ [ "mutant_human_blood", 16 ], [ "mutant_blood", 30] ]
+  },
+  {
+    "type": "recipe",
+    "result": "KRA_droplet_corrupted",
+    "activity_level": "NO_EXERCISE",
+    "category": "CC_CHEM",
+    "subcategory": "CSC_CHEM_CHEMICALS",
+    "skill_used": "chemistry",
+    "difficulty": 1,
+    "time": "1 h",
+    "autolearn": true,
+    "qualities": [ { "id": "BONDING", "level": 1 } ],
+    "components": [ [ "blood_tainted", 50 ] ]
+  },
+  {
+    "type": "recipe",
+    "result": "KRA_droplet_cursed",
+    "activity_level": "NO_EXERCISE",
+    "category": "CC_CHEM",
+    "subcategory": "CSC_CHEM_CHEMICALS",
+    "skill_used": "chemistry",
+    "difficulty": 1,
+    "time": "1 h",
+    "autolearn": true,
+    "qualities": [ { "id": "BONDING", "level": 1 } ],
+    "components": [ [ "demihuman_blood", 12 ] ]
+  }
+]

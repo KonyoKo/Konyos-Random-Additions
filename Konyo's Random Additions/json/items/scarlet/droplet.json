@@ -1,0 +1,72 @@
+[
+    {
+        "type": "GENERIC",
+        "category": "spare_part",
+        "id": "KRA_droplet_pristine",
+        "name": { "str": "pristine droplet", "str_pl": "pristine droplets" },
+        "description": "TBD",
+        "weight": "3 g",
+        "volume": "1 ml",
+        "price": 0,
+        "price_postapoc": 0,
+        "material": [ "blood" ],
+        "symbol": "o",
+        "color": "brown"
+    },
+    {
+        "type": "GENERIC",
+        "category": "spare_part",
+        "id": "KRA_droplet_bestial",
+        "name": { "str": "bestial droplet", "str_pl": "beastial droplets" },
+        "description": "TBD",
+        "weight": "3 g",
+        "volume": "1 ml",
+        "price": 0,
+        "price_postapoc": 0,
+        "material": [ "blood" ],
+        "symbol": "o",
+        "color": "brown"
+    },
+    {
+        "type": "GENERIC",
+        "category": "spare_part",
+        "id": "KRA_droplet_evolved",
+        "name": { "str": "evolved droplet", "str_pl": "evolved droplets" },
+        "description": "TBD",
+        "weight": "3 g",
+        "volume": "1 ml",
+        "price": 0,
+        "price_postapoc": 0,
+        "material": [ "blood" ],
+        "symbol": "o",
+        "color": "brown"
+    },
+    {
+        "type": "GENERIC",
+        "category": "spare_part",
+        "id": "KRA_droplet_corrupted",
+        "name": { "str": "corrupted droplet", "str_pl": "corrupted droplets" },
+        "description": "TBD",
+        "weight": "3 g",
+        "volume": "1 ml",
+        "price": 0,
+        "price_postapoc": 0,
+        "material": [ "blood" ],
+        "symbol": "o",
+        "color": "brown"
+    },
+    {
+        "type": "GENERIC",
+        "category": "spare_part",
+        "id": "KRA_droplet_cursed",
+        "name": { "str": "cursed droplet", "str_pl": "cursed droplets" },
+        "description": "TBD",
+        "weight": "3 g",
+        "volume": "1 ml",
+        "price": 0,
+        "price_postapoc": 0,
+        "material": [ "blood" ],
+        "symbol": "o",
+        "color": "brown"
+    }
+]
