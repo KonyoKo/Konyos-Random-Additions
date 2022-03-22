@@ -31,13 +31,6 @@
         "material": [ "blood" ],
         "symbol": ";",
         "color": "red",
-        "use_action": {
-            "type": "place_monster",
-            "monster_id": [ { "group": "GROUP_POOL_NOKIDS", "name": "Fleshpuppet" } ],
-            "friendly_msg": "The fleshpuppet forms, stands, and opens it's eyes.",
-            "hostile_msg": "The fleshpuppet forms, stands, and prepares to charge.",
-            "place_randomly": false,
-            "moves": 100
-          }
+        "use_action": { "type": "cast_spell", "spell_id": "KRA_spell_summon_animal", "no_fail": true, "level": 1, "need_wielding": false }
     }
 ]
