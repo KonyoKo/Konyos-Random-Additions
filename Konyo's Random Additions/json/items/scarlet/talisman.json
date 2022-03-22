@@ -16,6 +16,27 @@
             "npc_class_id": "KRA_merchant",
             "summon_msg": "Greetings, traveler.",
             "place_randomly": false,
+            "moves": 1
+          }
+    },
+    {
+        "id": "KRA_talisman_fleshpuppet",
+        "type": "TOOL",
+        "name": { "str": "bestial token" },
+        "description": "TBD",
+        "weight": "3 g",
+        "volume": "1 ml",
+        "price": 0,
+        "price_postapoc": 0,
+        "material": [ "blood" ],
+        "symbol": ";",
+        "color": "red",
+        "use_action": {
+            "type": "place_monster",
+            "monster_id": [ { "group": "GROUP_POOL_NOKIDS", "name": "Fleshpuppet" } ],
+            "friendly_msg": "The fleshpuppet forms, stands, and opens it's eyes.",
+            "hostile_msg": "The fleshpuppet forms, stands, and prepares to charge.",
+            "place_randomly": false,
             "moves": 100
           }
     }
