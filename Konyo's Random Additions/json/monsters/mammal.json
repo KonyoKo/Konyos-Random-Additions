@@ -8,14 +8,14 @@
         "bodytype": "dog",
         "categories": [ "WILDLIFE" ],
         "species": [ "MAMMAL" ],
-        "volume": "62500 ml",
-        "weight": "81500 g",
-        "hp": 40,
+        "volume": "13250  ml",
+        "weight": "13250  g",
+        "hp": 10,
         "speed": 120,
         "material": [ "flesh" ],
         "symbol": "C",
         "color": "light_gray",
-        "looks_like": "mon_cow",
+        "looks_like": "mon_coyote",
         "aggression": -70,
         "morale": 20,
         "melee_skill": 3,
@@ -31,6 +31,6 @@
         "death_drops": { "subtype": "collection", "groups": [ [ "cow", 25 ] ], "//": "25% chance of an item from group cow" },
         "harvest": "KRA_harvest_fleshpuppet",
         "special_attacks": [ [ "EAT_CROP", 60 ] ],
-        "flags": [ "SEES", "HEARS", "SMELLS", "ANIMAL", "PATH_AVOID_DANGER_1", "WARM", "PET_WONT_FOLLOW" ]
+        "flags": [ "SEES", "HEARS", "SMELLS", "ANIMAL", "PATH_AVOID_DANGER_1", "WARM" ]
       }
 ]

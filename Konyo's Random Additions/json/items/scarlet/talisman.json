@@ -36,7 +36,9 @@
             "monster_id": "KRA_mon_fleshpuppet",
             "friendly_msg": "The fleshpuppet forms, stands, and opens it's eyes.",
             "hostile_msg": "The fleshpuppet forms, stands, and prepares to charge.",
-            "place_randomly": false,
+            "place_randomly": true,
+            "difficulty": 5,
+            "skills": ["chemistry", "survival"],
             "moves": 100
           }
     }
