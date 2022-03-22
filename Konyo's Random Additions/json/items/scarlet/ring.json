@@ -19,20 +19,13 @@
         "max_contains_volume": "100 L",
 		    "max_item_length": "1000 cm",
         "spoil_multiplier": 1.0,
-        "weight_multiplier": 0.25,
-        "volume_multiplier": 0.25,
+        "weight_multiplier": 0.5,
+        "volume_multiplier": 0.5,
         "rigid": true,
 		    "watertight": true,
 		    "airtight": true
       }
     ],
-	  "use_action": {
-      "type": "place_npc",
-      "npc_class_id": "KRA_merchant",
-      "summon_msg": "Greetings, traveler.",
-      "place_randomly": false,
-      "moves": 100
-    },
     "armor": [
       {
         "encumbrance": [ 0, 0 ],
@@ -71,20 +64,13 @@
         "max_contains_volume": "250 L",
 		    "max_item_length": "1000 cm",
         "spoil_multiplier": 1.0,
-        "weight_multiplier": 0.1,
-        "volume_multiplier": 0.1,
+        "weight_multiplier": 0.25,
+        "volume_multiplier": 0.25,
         "rigid": true,
 		    "watertight": true,
 		    "airtight": true
       }
     ],
-	  "use_action": {
-      "type": "place_npc",
-      "npc_class_id": "KRA_merchant",
-      "summon_msg": "Greetings, traveler.",
-      "place_randomly": false,
-      "moves": 1
-    },
     "armor": [
       {
         "encumbrance": [ 0, 0 ],
@@ -130,13 +116,6 @@
 		    "airtight": true
       }
     ],
-	  "use_action": {
-      "type": "place_npc",
-      "npc_class_id": "KRA_merchant",
-      "summon_msg": "Greetings, traveler.",
-      "place_randomly": false,
-      "moves": 1
-    },
     "armor": [
       {
         "encumbrance": [ 0, 0 ],

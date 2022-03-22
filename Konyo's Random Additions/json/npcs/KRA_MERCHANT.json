@@ -5,7 +5,7 @@
     "name": { "str": "Merchant" },
     "common": false,
     "job_description": "I am the merchant.",
-	  "traits": [ { "group": "BG_survival_story_UNIVERSAL" }, { "group": "NPC_starting_traits" }, [ "HALLUCINATION", 100 ] ],
+	  "traits": [ { "group": "BG_survival_story_UNIVERSAL" }, { "group": "NPC_starting_traits" }, [ "HALLUCINATION", 1 ] ],
 	  "shopkeeper_item_group": "KRA_merchant_inventory",
 	  "weapon_override": "EMPTY_GROUP",
     "worn_override": "KRA_merchant_worn",
@@ -18,8 +18,7 @@
       { "skill": "gun", "bonus": { "rng": [ 8, 10 ] } },
       { "skill": "rifle", "bonus": { "rng": [ 8, 10 ] } },
       { "skill": "pistol", "bonus": { "rng": [ 8, 10 ] } },
-      { "skill": "smg", "bonus": { "rng": [ 8, 10 ] } },
-      { "skill": "speech", "bonus": { "rng": [ 1, 3 ] } }
+      { "skill": "smg", "bonus": { "rng": [ 8, 10 ] } }
     ]
   },
   {
@@ -40,8 +39,7 @@
     "dynamic_line": "You lookin' to trade?",
     "responses": [
       { "text": "Yes, I am.", "effect": "start_trade", "topic": "KRA_TALK_MERCHANT" },
-      { "text": "No, I'm not.", "effect": "npc_die", "topic": "TALK_DONE"  },
-	    { "text": "Summon Cow.", "effect": "buy_cow", "topic": "KRA_TALK_MERCHANT" }
+      { "text": "No, I'm not.", "effect": "npc_die", "topic": "TALK_DONE"  }
     ]
   },
   {
@@ -71,7 +69,6 @@
     "id": "KRA_merchant_inventory",
     "subtype": "collection",
     "items": [
-	    { "item": "flour", "charges": [ 50, 100 ], "prob": 100 },
 	    { "item": "KRA_trade_coin", "count-min": 50, "count-max": 300, "prob": 100 },
       { "item": "RobofacCoin", "count-min": 5, "count-max": 30, "prob": 30 },
       { "item": "FlatCoin", "count-min": 50, "count-max": 300, "prob": 30 },

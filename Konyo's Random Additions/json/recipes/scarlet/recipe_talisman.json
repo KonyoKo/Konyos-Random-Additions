@@ -1,0 +1,18 @@
+[
+    {
+        "type": "recipe",
+        "result": "KRA_talisman_merchant",
+        "activity_level": "NO_EXERCISE",
+        "category": "CC_CHEM",
+        "subcategory": "CSC_CHEM_CHEMICALS",
+        "skill_used": "chemistry",
+        "difficulty": 1,
+        "time": "1 h",
+        "autolearn": true,
+        "using": [ [ "KRA_condensing_standard", 1 ] ],
+        "components": [ 
+          [ [ "coin_penny", 1 ], [ "coin_nickel", 1 ], [ "coin_dime", 1 ], [ "coin_quarter", 1 ], [ "coin_half_dollar", 1], [ "coin_dollar", 1 ] ],
+          [ [ "KRA_droplet_pristine", 1 ] ]  
+        ]
+     }
+]

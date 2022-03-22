@@ -1,0 +1,22 @@
+[
+    {
+        "id": "KRA_talisman_merchant",
+        "type": "TOOL",
+        "name": { "str": "merchant coin" },
+        "description": "TBD",
+        "weight": "3 g",
+        "volume": "1 ml",
+        "price": 0,
+        "price_postapoc": 0,
+        "material": [ "blood" ],
+        "symbol": ";",
+        "color": "red",
+        "use_action": {
+            "type": "place_npc",
+            "npc_class_id": "KRA_merchant",
+            "summon_msg": "Greetings, traveler.",
+            "place_randomly": false,
+            "moves": 100
+          }
+    }
+]

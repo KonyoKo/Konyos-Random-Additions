@@ -47,7 +47,7 @@
 		[ "blue_topaz_platinum_ring", 1 ],
 		[ "opal_platinum_ring", 1 ],
 		[ "pearl_platinum_ring", 1 ] ],
-		[ [ "KRA_condensed_blood_gem", 1 ] ] 
+		[ [ "KRA_droplet_pristine", 5 ] ] 
 	  ]
 	},
 	{
@@ -98,7 +98,7 @@
 		[ "blue_topaz_platinum_ring", 1 ],
 		[ "opal_platinum_ring", 1 ],
 		[ "pearl_platinum_ring", 1 ] ],
-		[ [ "KRA_condensed_blood_gem", 3 ] ] 
+		[ [ "KRA_droplet_pristine", 15 ] ] 
 	  ]
 	},
     {
@@ -149,7 +149,7 @@
 		[ "blue_topaz_platinum_ring", 1 ],
 		[ "opal_platinum_ring", 1 ],
 		[ "pearl_platinum_ring", 1 ] ],
-		[ [ "KRA_condensed_blood_gem", 5 ] ] 
+		[ [ "KRA_droplet_pristine", 25 ] ] 
 	  ]
 	}
 ]
