@@ -4,7 +4,7 @@
         "id": "KRA_spell_summon_animal",
         "name": "Summon",
         "description": "Summons the creature specified in 'effect_str'",
-        "flags": [ "SILENT", "HOSTILE_50" ],
+        "flags": [ "SILENT", "HOSTILE_50", "PERMANENT" ],
         "valid_targets": [ "ground" ],
         "min_damage": 1,
         "max_damage": 1,

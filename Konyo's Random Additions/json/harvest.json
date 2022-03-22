@@ -1,0 +1,12 @@
+[
+    {
+        "id": "KRA_harvest_fleshpuppet",
+        "type": "harvest",
+        "entries": [
+          { "drop": "meat", "type": "flesh", "mass_ratio": 0.28 },
+          { "drop": "meat_scrap", "type": "flesh", "mass_ratio": 0.05 },
+          { "drop": "sinew", "type": "bone", "mass_ratio": 0.00035 },
+          { "drop": "fat", "type": "flesh", "mass_ratio": 0.07 }
+        ]
+      }
+]
