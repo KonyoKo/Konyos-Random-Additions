@@ -6,7 +6,6 @@
         "category": "CC_CHEM",
         "subcategory": "CSC_CHEM_CHEMICALS",
         "skill_used": "chemistry",
-        "charges": 3,
         "difficulty": 1,
         "time": "1 h",
         "autolearn": true,
