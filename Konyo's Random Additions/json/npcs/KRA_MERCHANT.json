@@ -69,7 +69,6 @@
     "id": "KRA_merchant_inventory",
     "subtype": "collection",
     "items": [
-	    { "item": "KRA_trade_coin", "count-min": 50, "count-max": 300, "prob": 100 },
       { "item": "RobofacCoin", "count-min": 5, "count-max": 30, "prob": 30 },
       { "item": "FlatCoin", "count-min": 50, "count-max": 300, "prob": 30 },
 	    { "group": "dry_goods", "prob": 80, "count": [ 2, 6 ] },
