@@ -5,7 +5,7 @@
     "name": { "str": "Merchant" },
     "common": false,
     "job_description": "I am the merchant.",
-	  "traits": [ { "group": "BG_survival_story_UNIVERSAL" }, { "group": "NPC_starting_traits" }, [ "HALLUCINATION", 1 ] ],
+	  "traits": [ { "group": "BG_survival_story_UNIVERSAL" }, { "group": "NPC_starting_traits" }, [ "HALLUCINATION", 100 ] ],
 	  "shopkeeper_item_group": "KRA_merchant_inventory",
 	  "weapon_override": "EMPTY_GROUP",
     "worn_override": "KRA_merchant_worn",
