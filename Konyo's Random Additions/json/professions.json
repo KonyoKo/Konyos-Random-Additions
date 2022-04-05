@@ -1,0 +1,15 @@
+[
+    {
+      "type": "profession",
+      "id": "KRA_experinced_survivor",
+      "name": "Experinced Survivor",
+      "description": "The cataclysm began, and so did my story. Today is just a new chapeter.",
+      "points": 3,
+      "items": {
+        "both": {
+          "items": [ "lsurvivor_jumpsuit", "leather_belt", "sneakers_steel", "gloves_light", "KRA_interspatial_ring_minor", "diving_watch" ],
+          "entries": [ { "item": "kukri", "container-item": "sheath" } ]
+        }
+      }
+    }
+  ]
