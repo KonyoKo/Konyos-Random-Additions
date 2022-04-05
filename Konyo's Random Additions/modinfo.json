@@ -7,5 +7,17 @@
     "description": "Just a collection of random things i've created for various runs.",
     "category": "other",
     "dependencies": [ "dda" ]
+  },
+  {
+    "type": "EXTERNAL_OPTION",
+    "name": "SPEEDYDEX_MIN_DEX",
+    "stype": "int",
+    "value": 8
+  },
+  {
+    "type": "EXTERNAL_OPTION",
+    "name": "SPEEDYDEX_DEX_SPEED",
+    "stype": "int",
+    "value": 5
   }
 ]
