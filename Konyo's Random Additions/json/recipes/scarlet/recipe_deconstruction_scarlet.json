@@ -1,0 +1,20 @@
+[
+    {
+        "result": "KRA_small_scarlet_crystal",
+        "type": "uncraft",
+        "time": "10 s",
+        "components": [ [ [ "KRA_condensed_blood_gem", 1 ] ] ]
+    },
+    {
+        "result": "KRA_medium_scarlet_crystal",
+        "type": "uncraft",
+        "time": "10 s",
+        "components": [ [ [ "KRA_condensed_blood_gem", 2 ] ] ]
+    },
+    {
+        "result": "KRA_large_scarlet_crystal",
+        "type": "uncraft",
+        "time": "10 s",
+        "components": [ [ [ "KRA_condensed_blood_gem", 3 ] ] ]
+    }
+]
