@@ -3,45 +3,55 @@
       "id": "forage_spring",
       "type": "item_group",
       "subtype": "distribution",
+      "extend": {
         "entries": [
           { "item": "KRA_small_scarlet_crystal", "prob": 20 },
           { "item": "KRA_medium_scarlet_crystal", "prob": 10 },
           { "item": "KRA_large_scarlet_crystal", "prob": 5 } ] 
+      }
     },
     {
       "id": "forage_summer",
       "type": "item_group",
       "subtype": "distribution",
+      "extend": {
         "entries": [
           { "item": "KRA_small_scarlet_crystal", "prob": 20 },
           { "item": "KRA_medium_scarlet_crystal", "prob": 10 },
           { "item": "KRA_large_scarlet_crystal", "prob": 5 } ] 
+      }
     },
     {
       "id": "forage_autumn",
       "type": "item_group",
       "subtype": "distribution",
+      "extend": {
         "entries": [
           { "item": "KRA_small_scarlet_crystal", "prob": 20 },
           { "item": "KRA_medium_scarlet_crystal", "prob": 10 },
           { "item": "KRA_large_scarlet_crystal", "prob": 5 } ] 
+      }
     },
     {
       "id": "forage_winter",
       "type": "item_group",
       "subtype": "distribution",
+      "extend": {
         "entries": [
           { "item": "KRA_small_scarlet_crystal", "prob": 20 },
           { "item": "KRA_medium_scarlet_crystal", "prob": 10 },
           { "item": "KRA_large_scarlet_crystal", "prob": 5 } ] 
+      }
     },
     {
       "id": "default_zombie_death_drops",
       "type": "item_group",
       "subtype": "collection",
+      "extend": {
         "entries": [
-          { "item": "KRA_small_scarlet_crystal", "prob": 15 },
-          { "item": "KRA_medium_scarlet_crystal", "prob": 10 },
-          { "item": "KRA_large_scarlet_crystal", "prob": 5 } ] 
+          { "item": "KRA_small_scarlet_crystal", "prob": 5 },
+          { "item": "KRA_medium_scarlet_crystal", "prob": 3 },
+          { "item": "KRA_large_scarlet_crystal", "prob": 1 } ] 
+      }
     }
 ]
