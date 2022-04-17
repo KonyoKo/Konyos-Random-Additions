@@ -21,7 +21,6 @@
         "spoil_multiplier": 1.0,
         "weight_multiplier": 0.5,
         "volume_multiplier": 0.5,
-        "rigid": true,
 		    "watertight": true,
 		    "airtight": true
       }
@@ -39,9 +38,8 @@
 	  "TARDIS",
 	  "TRADER_AVOID",
 	  "TRADER_KEEP_EQUIPPED",
-	  "STURDY",
 	  "WATERPROOF",
-	  "FIRE"
+	  "SKINTIGHT"
 	  ]
   },
   {
@@ -66,7 +64,6 @@
         "spoil_multiplier": 1.0,
         "weight_multiplier": 0.25,
         "volume_multiplier": 0.25,
-        "rigid": true,
 		    "watertight": true,
 		    "airtight": true
       }
@@ -84,9 +81,8 @@
 	  "TARDIS",
 	  "TRADER_AVOID",
 	  "TRADER_KEEP_EQUIPPED",
-	  "STURDY",
 	  "WATERPROOF",
-	  "FIRE"
+	  "SKINTIGHT"
 	  ]
   },
   {
@@ -111,7 +107,6 @@
         "spoil_multiplier": 1.0,
         "weight_multiplier": 0.0,
         "volume_multiplier": 0.0,
-        "rigid": true,
 		    "watertight": true,
 		    "airtight": true
       }
@@ -129,9 +124,8 @@
 	  "TARDIS",
 	  "TRADER_AVOID",
 	  "TRADER_KEEP_EQUIPPED",
-	  "STURDY",
 	  "WATERPROOF",
-	  "FIRE"
+    "SKINTIGHT"
 	  ]
   }
 ]
