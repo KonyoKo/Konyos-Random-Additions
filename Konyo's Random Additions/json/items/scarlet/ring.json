@@ -5,13 +5,14 @@
     "name": { "str": "flawed interspatial ring" },
     "description": "A ring crafted to entangled to it's own pocket dimension capable to storing and withdrawing items with a thought.",
     "weight": "12 g",
-    "volume": "1 ml",
+    "volume": "5 ml",
     "price": 0,
     "price_postapoc": 0,
     "material": [ "gold" ],
     "symbol": "[",
     "looks_like": "ring_engagement",
     "color": "yellow",
+    "sided": true,
 	  "pocket_data": [
       {
         "pocket_type": "CONTAINER",
@@ -20,9 +21,7 @@
 		    "max_item_length": "1000 cm",
         "spoil_multiplier": 1.0,
         "weight_multiplier": 0.5,
-        "volume_multiplier": 0.5,
-		    "watertight": true,
-		    "airtight": true
+        "volume_multiplier": 0.5
       }
     ],
     "armor": [
@@ -30,16 +29,17 @@
         "encumbrance": [ 0, 0 ],
         "coverage": 0,
         "covers": [ "hand_l", "hand_r" ],
-        "specifically_covers": [ "hand_fingers_l", "hand_fingers_r" ]
+        "specifically_covers": [ "hand_fingers_l", "hand_fingers_r" ],
+        "rigid_layer_only": true
       }
     ],
     "flags": [ 
 	  "FANCY",
-	  "TARDIS",
 	  "TRADER_AVOID",
 	  "TRADER_KEEP_EQUIPPED",
 	  "WATERPROOF",
-	  "SKINTIGHT"
+	  "SKINTIGHT",
+    "PADDED"
 	  ]
   },
   {
@@ -48,13 +48,14 @@
     "name": { "str": "mediocre interspatial ring" },
     "description": "A ring crafted to entangled to it's own pocket dimension capable to storing and withdrawing items with a thought.",
     "weight": "12 g",
-    "volume": "1 ml",
+    "volume": "5 ml",
     "price": 0,
     "price_postapoc": 0,
     "material": [ "gold" ],
     "symbol": "[",
     "looks_like": "ring_engagement",
     "color": "yellow",
+    "sided": true,
 	  "pocket_data": [
       {
         "pocket_type": "CONTAINER",
@@ -63,9 +64,7 @@
 		    "max_item_length": "1000 cm",
         "spoil_multiplier": 1.0,
         "weight_multiplier": 0.25,
-        "volume_multiplier": 0.25,
-		    "watertight": true,
-		    "airtight": true
+        "volume_multiplier": 0.25
       }
     ],
     "armor": [
@@ -73,16 +72,17 @@
         "encumbrance": [ 0, 0 ],
         "coverage": 0,
         "covers": [ "hand_l", "hand_r" ],
-        "specifically_covers": [ "hand_fingers_l", "hand_fingers_r" ]
+        "specifically_covers": [ "hand_fingers_l", "hand_fingers_r" ],
+        "rigid_layer_only": true
       }
     ],
     "flags": [ 
 	  "FANCY",
-	  "TARDIS",
 	  "TRADER_AVOID",
 	  "TRADER_KEEP_EQUIPPED",
 	  "WATERPROOF",
-	  "SKINTIGHT"
+	  "SKINTIGHT",
+    "PADDED"
 	  ]
   },
   {
@@ -91,13 +91,14 @@
     "name": { "str": "perfect interspatial ring" },
     "description": "A ring crafted to entangled to it's own pocket dimension capable to storing and withdrawing items with a thought.",
     "weight": "12 g",
-    "volume": "1 ml",
+    "volume": "5 ml",
     "price": 0,
     "price_postapoc": 0,
     "material": [ "gold" ],
     "symbol": "[",
     "looks_like": "ring_engagement",
     "color": "yellow",
+    "sided": true,
 	  "pocket_data": [
       {
         "pocket_type": "CONTAINER",
@@ -106,9 +107,7 @@
 		    "max_item_length": "1000 cm",
         "spoil_multiplier": 1.0,
         "weight_multiplier": 0.0,
-        "volume_multiplier": 0.0,
-		    "watertight": true,
-		    "airtight": true
+        "volume_multiplier": 0.0
       }
     ],
     "armor": [
@@ -116,16 +115,17 @@
         "encumbrance": [ 0, 0 ],
         "coverage": 0,
         "covers": [ "hand_l", "hand_r" ],
-        "specifically_covers": [ "hand_fingers_l", "hand_fingers_r" ]
+        "specifically_covers": [ "hand_fingers_l", "hand_fingers_r" ],
+        "rigid_layer_only": true
       }
     ],
     "flags": [ 
 	  "FANCY",
-	  "TARDIS",
 	  "TRADER_AVOID",
 	  "TRADER_KEEP_EQUIPPED",
 	  "WATERPROOF",
-    "SKINTIGHT"
+    "SKINTIGHT",
+    "PADDED"
 	  ]
   }
 ]
